@@ -1,0 +1,9 @@
+{
+  "apkVersionCode": 120,
+  "apkVersionName": "1.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/ideafactory86/shopping-mobile-ota/main/shopping_booster_latest.apk",
+  "hotpatchVersion": 120,
+  "hotpatchNote": "네이버 쇼핑 부스터M v1.2.0 아르곤 에디션 (클린 IPv4 최근 5개 IP 표시 + 관리자 마스터보드 오류·로그 원클릭 전송 + 캡차/오류 자동 보고 + 비행기모드 하드웨어 직타 탑재)",
+  "hotpatchInitJs": "",
+  "hotpatchEngageJs": ""
+}
